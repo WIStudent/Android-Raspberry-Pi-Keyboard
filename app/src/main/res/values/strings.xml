@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Raspberry Keyboard</string>
+    <string name="status">Status: %1$s</string>
+    <string name="show_keyboard">Show Keyboard</string>
+</resources>
